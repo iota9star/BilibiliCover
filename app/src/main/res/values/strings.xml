@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bili封面获取</string>
+    <string name="hint">请输入AV号或是链接</string>
+    <string name="search">搜索</string>
+    <string name="open">打开</string>
+    <string name="copy">复制</string>
+</resources>
